@@ -1,0 +1,1 @@
+*love is* — an immersive work of light and music. Tuned to 432 Hz; composed to uplift and energize. Originates from real-night star-sky capture; refined in Resolve/CapCut/Procreate; audio in Studio One.

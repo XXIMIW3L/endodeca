@@ -1,0 +1,7 @@
+# Long (200–300 words)
+
+*love is* advances a simple thesis: treat care as architecture. The image begins where the world goes quiet—under a real, star-thick sky—then reduces itself until only the necessary remains. Tuned to **432 Hz**, the work is composed to **uplift and energize** without sentimentality. The frame acts like a room: posture, distance, consent, and breath are the building materials.
+
+Production is part of the meaning. **PreSonus Studio One** anchors the score; **DaVinci Resolve** and **CapCut** handle picture discipline; **Procreate** carries mark-making; capture is on **Apple iPhone**—a humble, exact stack. The origin is not a simulation but a **photography/videography** record of the night, pressed into service as structure. Star-fields read as coordinates rather than romance.
+
+The result is devotional without doctrine: sparse gestures, lucid pacing, durability over spectacle. The work honors the ecosystem that delivered it to the public—One Love DAO, Sinbad The Sailor, SirenAI, Luko.art, Wait & Hope, and 30 Campos Elíseos—because infrastructure matters. It is fine art film: years in the making, meant to be lived with. The viewer’s job is modest and severe: enter, remain, and let the calibration take hold.

@@ -1,0 +1,3 @@
+# Intro (75–120 words)
+
+A nocturne built for wakefulness: a field of stars becomes procedure, not backdrop. Tuned to **432 Hz** and composed to uplift and energize, *love is* treats desire as aerodynamics—pull, lift, glide—measured against the hush of a real sky. The visual composition began with photography/videography of a **real nighttime starry sky**, then the image was disciplined until it held: slow pans like breath, glints like decisions. PreSonus Studio One shaped the audio; DaVinci Resolve, CapCut, and Procreate refined the picture; captured on Apple iPhone. The piece doesn’t argue. It calibrates. When the frame settles, the viewer rises.
