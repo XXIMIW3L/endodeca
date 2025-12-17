@@ -29,10 +29,10 @@ Also: **Wait & Hope (@WaitHopeFound)** — a **501(c)(3)** non-profit dedicated 
 ## Mint Details (objkt)
 - **Edition:** Open (no cap, no window)  
 - **Format:** 8K fine art film  
-- **Price:** **120 tez**  
-- **Primary split:** 90% Artist / 5% Jennifer (personal) / 5% One Love Art DAO  
-- **Royalties:** **21% total**, distributed manually by the artist *(seven recipients × 3% each)*  
-- **Royalty recipients (3% each):** Artist · Jennifer · One Love Art DAO · Sinbad The Sailor · Wait & Hope · 30 Campos Elíseos · Luko.art
+- **DAO Pricing for first 10 minted:** **333 tez**  
+- **Primary split:** 55% Endodeca (music) / 5% Jennifer (exhibition support) / 10% One Love Art DAO   /5% Luko.art (exhibition support) / 25% Maxximillian (visual art)    
+- **Royalties:** **14% total**, distributed manually by the artist *(seven recipients × 2% each)*  
+- **Royalty recipients (2% each):** Artist · Jennifer · One Love Art DAO · Sinbad The Sailor · Wait & Hope · 30 Campos Elíseos · Luko.art
 
 **Collector note:** Open edition, no scarcity games—value is in the work.
 
