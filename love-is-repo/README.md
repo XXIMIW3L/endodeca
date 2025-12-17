@@ -28,7 +28,7 @@ Also: **Wait & Hope (@WaitHopeFound)** — a **501(c)(3)** non-profit dedicated 
 
 ## Mint Details (objkt)
 - **Edition:** Open (no cap, no window)  
-- **Format:** 8K fine art film  
+- **Format:** 8K fine art film - https://teia.art/objkt/875747 
 - **DAO Pricing for first 10 minted:** **333 tez**  
 - **Primary split:** 55% Endodeca (music) / 5% Jennifer (exhibition support) / 10% One Love Art DAO   /5% Luko.art (exhibition support) / 25% Maxximillian (visual art)    
 - **Royalties:** **14% total**, distributed manually by the artist *(seven recipients × 2% each)*  
